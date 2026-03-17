@@ -1,0 +1,757 @@
+{
+  "hero": {
+    "title": "HERRAMIENTAS DE INTELIGENCIA ARTIFICIAL 2026",
+    "subtitle": "Guía Completa, Detallada y Exhaustiva",
+    "metadata": {}
+  },
+  "topTools": [],
+  "categories": [
+    {
+      "title": "Guía Completa, Detallada y Exhaustiva",
+      "content": []
+    },
+    {
+      "title": "📑 TABLA DE CONTENIDOS COMPLETA",
+      "content": []
+    },
+    {
+      "title": "🎯 INTRODUCCIÓN DETALLADA",
+      "content": [
+        {
+          "subtitle": "**El Panorama de IA en 2026**",
+          "text": [
+            "### **El Panorama de IA en 2026**",
+            "",
+            "El ecosistema de inteligencia artificial ha evolucionado de forma explosiva. Hace 2 años, ChatGPT revolucionó el acceso a LLMs. Hoy en 2026, disponemos de 91+ herramientas especializadas, cada una optimizada para casos de uso específicos.",
+            "",
+            "**Datos estadísticos 2026:**",
+            "- **91+ herramientas IA viables** (comparado con 15 en 2023)",
+            "- **65% son open source** (democratización del acceso)",
+            "- **35% son comerciales** (freemium + pago)",
+            "- **Stack promedio empresarial:** 5-7 herramientas integradas",
+            "- **ROI promedio:** 300-500% en primeros 12 meses",
+            "- **Tiempo de implementación:** 4-8 semanas para stack básico",
+            "- **Costo promedio empresarial:** $200-500/mes para stack completo",
+            ""
+          ]
+        },
+        {
+          "subtitle": "**Por Qué Esta Guía**",
+          "text": [
+            "### **Por Qué Esta Guía**",
+            "",
+            "Navegar 91+ opciones es abrumador. Esta guía proporciona:",
+            "- ✅ Evaluación exhaustiva de cada herramienta",
+            "- ✅ Pros y contras específicos",
+            "- ✅ Casos de uso reales",
+            "- ✅ Patrones de integración",
+            "- ✅ Estimador de costos",
+            "- ✅ Roadmaps personalizados",
+            "- ✅ Trampas comunes y cómo evitarlas",
+            ""
+          ]
+        },
+        {
+          "subtitle": "**Cómo Usar Esta Guía**",
+          "text": [
+            "### **Cómo Usar Esta Guía**",
+            "",
+            "**Para principiantes:** Lee \"Cómo Empezar\" + Roadmap básico",
+            "**Para profesionales:** Salta a tu categoría + Matriz de integración",
+            "**Para empresas:** Lee todo + Casos de uso avanzados + Estimador de presupuesto",
+            "**Para tomadores de decisión:** Lee Top 20 + Comparativas + Estimador",
+            "",
+            "---",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "title": "🧠 MODELOS DE LENGUAJE & IA AUTÓNOMA",
+      "content": [
+        {
+          "subtitle": "**Agentes Autónomos - Análisis Comparativo**",
+          "text": [
+            "### **Agentes Autónomos - Análisis Comparativo**",
+            "",
+            "| Característica | Manus IA | OpenClaw | AutoGPT |",
+            "|---------------|----------|----------|---------|",
+            "| Autonomía | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |",
+            "| Facilidad | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ |",
+            "| Costo | 💰💰💰 | 🆓 | 🆓 |",
+            "| Comunidad | Media | Creciente | Grande |",
+            "| Madurez | Beta | Estable | Estable |",
+            "| Integración | Excelente | Muy buena | Media |",
+            "",
+            "---",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "title": "🎨 GENERACIÓN DE CONTENIDO",
+      "content": [
+        {
+          "subtitle": "**Ecosistema Completo de Generación**",
+          "text": [
+            "### **Ecosistema Completo de Generación**",
+            "",
+            "#### **Texto (Análisis Profundo)**",
+            "",
+            "**ChatGPT vs Claude vs GPT-5.2 para Escritura**",
+            "",
+            "| Tarea | Mejor Opción | Razón |",
+            "|-------|-------------|-------|",
+            "| Blog posts | GPT-5.2 | Creatividad y SEO |",
+            "| Técnico | Claude 4.5 | Precisión |",
+            "| Creativo | GPT-5.2 | Originalidad |",
+            "| Rápido | ChatGPT | Velocidad |",
+            "| Multimodal | Gemini 3 | Análisis imagen/audio |",
+            "",
+            "**Herramientas Especializadas:**",
+            "- **Jasper AI:** Mejor para marketing (templates preconstruidos)",
+            "- **Grammarly Go:** Mejor para refinamiento de estilo",
+            "- **Copy.ai:** Mejor para redes sociales",
+            "- **Writesonic:** Mejor para contenido largo",
+            "",
+            "#### **Imágenes - Comparativa Profunda**",
+            "",
+            "**Stable Diffusion WebUI vs Midjourney vs DALL-E 3 vs FLUX.1**",
+            "",
+            "| Factor | Stable Diffusion | Midjourney | DALL-E 3 | FLUX.1 |",
+            "|--------|-----------------|-----------|----------|--------|",
+            "| Costo | $0 (local) | $10-120/mes | Por uso | $0 |",
+            "| Calidad | 8/10 | 9.5/10 | 9/10 | 9/10 |",
+            "| Control | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ |",
+            "| Privacidad | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ |",
+            "| Facilidad | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |",
+            "| Comunidad | Grande | Muy grande | Grande | Creciente |",
+            "| Open Source | ✅ | ❌ | ❌ | ✅ |",
+            "",
+            "**Casos de Uso Específicos:**",
+            "- **Diseño profesional:** Midjourney",
+            "- **Privacidad crítica:** Stable Diffusion o FLUX.1",
+            "- **Integración fácil:** DALL-E 3 (con ChatGPT)",
+            "- **Mejor precio:** FLUX.1 (open source gratuito)",
+            "- **Mayor control:** Stable Diffusion WebUI",
+            "",
+            "---",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "title": "💻 DESARROLLO & PROGRAMACIÓN",
+      "content": [
+        {
+          "subtitle": "**Stack Completo para Desarrollo**",
+          "text": [
+            "### **Stack Completo para Desarrollo**",
+            "",
+            "#### **El Cuarteto Perfecto 2026**",
+            "",
+            "1. **GitHub Copilot** (Autocompletado)",
+            "2. **Claude Opus 4.5** (Refactorización)",
+            "3. **PyTorch** (Training)",
+            "4. **LangChain** (Aplicaciones)",
+            "",
+            "**Workflow Completo:**",
+            "```",
+            "Idea → GitHub Copilot (Scaffolding)",
+            "→ Claude Opus 4.5 (Arquitectura)",
+            "→ PyTorch (Modelos ML)",
+            "→ LangChain (Integración)",
+            "→ Jest/Vitest (Testing)",
+            "→ GitHub Actions (CI/CD)",
+            "→ SeleniumBase (Validación)",
+            "→ Sora (Documentación video)",
+            "```",
+            "",
+            "#### **Frameworks ML - Guía de Selección**",
+            "",
+            "**¿Cuándo usar cada uno?**",
+            "",
+            "- **TensorFlow:** Producción en escala, equipos grandes, Google Cloud",
+            "- **PyTorch:** Investigación, prototipado, comunidad academia",
+            "- **Keras:** Aprendizaje, rápido prototipado, principiantes",
+            "- **scikit-learn:** Datos tabulares, ML clásico, rapidez",
+            "",
+            "#### **Frameworks para LLMs - Comparativa**",
+            "",
+            "| Framework | Mejor Para | Facilidad | Comunidad | Madurez |",
+            "|-----------|-----------|-----------|-----------|---------|",
+            "| LangChain | Apps completas | Média | Muy grande | Estable |",
+            "| LlamaIndex | RAG puro | Fácil | Grande | Estable |",
+            "| LiteLLM | Multi-proveedor | Fácil | Media | Nueva |",
+            "| Haystack | Pipelines NLP | Media | Media | Estable |",
+            "",
+            "---",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "title": "🔄 AUTOMATIZACIÓN & FLUJOS DE TRABAJO",
+      "content": [
+        {
+          "subtitle": "**La Pila de Automatización 2026**",
+          "text": [
+            "### **La Pila de Automatización 2026**",
+            "",
+            "#### **Nivel 1: Sin Código (No-Code)**",
+            "**Herramientas:** n8n, Zapier, Make.com",
+            "**Casos de uso:** Integraciones simples, flujos básicos",
+            "**Tiempo de implementación:** 2-4 horas",
+            "**Costo:** $0-50/mes",
+            "",
+            "#### **Nivel 2: Bajo Código (Low-Code)**",
+            "**Herramientas:** n8n avanzado, OpenClaw, GitHub Actions",
+            "**Casos de uso:** Flujos complejos, 50% código",
+            "**Tiempo de implementación:** 1-2 semanas",
+            "**Costo:** $0-100/mes",
+            "",
+            "#### **Nivel 3: Código + Agentes**",
+            "**Herramientas:** Manus IA, OpenClaw avanzado, Custom code",
+            "**Casos de uso:** Automatización inteligente, decisiones dinámicas",
+            "**Tiempo de implementación:** 2-4 semanas",
+            "**Costo:** $50-500/mes",
+            ""
+          ]
+        },
+        {
+          "subtitle": "**Matriz de Selección: ¿Cuál herramienta usar?**",
+          "text": [
+            "### **Matriz de Selección: ¿Cuál herramienta usar?**",
+            "",
+            "| Complejidad | Herramienta | Costo | Tiempo | Flexibilidad | Integración |",
+            "|------------|-----------|-------|--------|-------------|-------------|",
+            "| Muy simple | Zapier | 💰 | 1h | Media | Excelente |",
+            "| Simple | n8n | 💵 | 2h | Alta | Excelente |",
+            "| Media | OpenClaw | 🆓 | 8h | Muy Alta | Muy buena |",
+            "| Compleja | Manus IA | 💰💰 | 40h | Máxima | Excelente |",
+            "| Muy compleja | Custom code | 💰💰💰 | 200h | Máxima | Flexible |",
+            "",
+            "---",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "title": "📊 GESTIÓN DE PROYECTOS & PRODUCTIVIDAD",
+      "content": [
+        {
+          "subtitle": "**El Stack de Productividad Perfecto**",
+          "text": [
+            "### **El Stack de Productividad Perfecto**",
+            "",
+            "#### **Para Solopreneurs**",
+            "```",
+            "AppFlowy (Gestión)",
+            "+ Joplin (Notas)",
+            "+ Super Productivity (Tareas + Pomodoro)",
+            "+ Logseq (PKM)",
+            "Total: $0/mes",
+            "```",
+            "",
+            "#### **Para Equipos Pequeños (2-10)**",
+            "```",
+            "AppFlowy (Gestión colaborativa)",
+            "+ Joplin (Documentación)",
+            "+ Slack (Comunicación)",
+            "+ Mattermost (Alternativa open source)",
+            "+ Ollama (LLM local)",
+            "Total: $0-50/mes",
+            "```",
+            "",
+            "#### **Para Startups (10-50)**",
+            "```",
+            "Plane (Ágil)",
+            "+ AppFlowy (Gestión)",
+            "+ Slack (Comunicación)",
+            "+ Metabase (Analytics)",
+            "+ Penpot (Diseño)",
+            "+ n8n (Automatización)",
+            "Total: $150-300/mes",
+            "```",
+            "",
+            "#### **Para Empresas (50+)**",
+            "```",
+            "Plane (Ágil empresarial)",
+            "+ AppFlowy + Notion (Gestión redundante)",
+            "+ Slack + Mattermost (Chat redundante)",
+            "+ Metabase + Superset (Analytics)",
+            "+ Penpot + Figma (Diseño)",
+            "+ n8n + OpenClaw + Manus IA (Automatización)",
+            "Total: $500-2000/mes",
+            "```",
+            "",
+            "---",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "title": "💰 ESTIMADOR DE PRESUPUESTO",
+      "content": [
+        {
+          "subtitle": "**Stacks Precalculados**",
+          "text": [
+            "### **Stacks Precalculados**",
+            "",
+            "#### **Stack Básico ($40/mes)**",
+            "- GitHub Copilot: $20/mes",
+            "- ChatGPT Plus: $20/mes",
+            "- Herramientas open source: $0",
+            "**ROI:** 300% en 3 meses | **Ahorro:** 10 horas/mes",
+            "",
+            "#### **Stack Profesional ($100/mes)**",
+            "- GitHub Copilot: $20/mes",
+            "- Claude Opus: $20/mes",
+            "- Sider AI Pro: $20/mes",
+            "- n8n Cloud: $40/mes",
+            "- Herramientas open source: $0",
+            "**ROI:** 400% en 2 meses | **Ahorro:** 30 horas/mes",
+            "",
+            "#### **Stack Empresarial ($400/mes)**",
+            "- GitHub Copilot for Business: $100/usuario/año",
+            "- Claude Opus API: $100/mes",
+            "- Manus IA: $200/mes",
+            "- n8n Self-hosted: $0 (servidor)",
+            "- Metabase: $50/mes",
+            "- Penpot Enterprise: $50/mes",
+            "**ROI:** 500% en 1 mes | **Ahorro:** 150 horas/mes",
+            "",
+            "---",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "title": "🚀 ROADMAP PROFESIONAL (Detallado)",
+      "content": [
+        {
+          "subtitle": "**Mes 1: Fundamentos**",
+          "text": [
+            "### **Mes 1: Fundamentos**",
+            "",
+            "**Semana 1-2:**",
+            "- ✅ Aprender conceptos (IA, LLM, APIs, Automatización)",
+            "- ✅ Crear cuentas en: ChatGPT, Claude, GitHub",
+            "- ✅ Instalar: GitHub Copilot, Joplin, AppFlowy",
+            "- ✅ Leer glosario técnico completo",
+            "- **Horas:** 20-30",
+            "",
+            "**Semana 3-4:**",
+            "- ✅ Primer proyecto simple en GitHub Copilot",
+            "- ✅ Crear workspace productividad en AppFlowy",
+            "- ✅ Explorar n8n (sin integración aún)",
+            "- ✅ Entender diferencias entre LLMs",
+            "- **Horas:** 15-20",
+            "",
+            "**Entregables:** Setup completo, 1 proyecto simple, 5 integraciones básicas",
+            ""
+          ]
+        },
+        {
+          "subtitle": "**Mes 2: Automatización**",
+          "text": [
+            "### **Mes 2: Automatización**",
+            "",
+            "**Semana 1-2:**",
+            "- ✅ Crear flujos simples en n8n (GitHub → Slack)",
+            "- ✅ Integrar AppFlowy ↔ Airtable",
+            "- ✅ Automatizar tareas repetitivas",
+            "- ✅ Usar Sider AI para comparar respuestas",
+            "- **Horas:** 25-30",
+            "",
+            "**Semana 3-4:**",
+            "- ✅ Flujos complejos (3+ integraciones)",
+            "- ✅ Webhooks y APIs personalizadas",
+            "- ✅ Testing de flujos",
+            "- ✅ Monitoreo y alertas",
+            "- **Horas:** 20-25",
+            "",
+            "**Entregables:** 3-5 automatizaciones en producción",
+            ""
+          ]
+        },
+        {
+          "subtitle": "**Mes 3: Especialización**",
+          "text": [
+            "### **Mes 3: Especialización**",
+            "",
+            "**Semana 1-2:**",
+            "- ✅ Usar Claude para refactorización grande",
+            "- ✅ Crear agentes simples con OpenClaw",
+            "- ✅ Implementar sistema RAG básico",
+            "- ✅ First LLM custom integration",
+            "- **Horas:** 30-35",
+            "",
+            "**Semana 3-4:**",
+            "- ✅ Pipeline de datos con Apache Airflow",
+            "- ✅ Modelos ML con PyTorch",
+            "- ✅ Aplicación completa con LangChain",
+            "- ✅ Despliegue a producción",
+            "- **Horas:** 35-40",
+            "",
+            "**Entregables:** Proyecto full-stack con IA",
+            "",
+            "---",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "title": "⚠️ TRAMPAS COMUNES Y SOLUCIONES",
+      "content": [
+        {
+          "subtitle": "**Trampa #1: \"Necesito todas las herramientas\"**",
+          "text": [
+            "### **Trampa #1: \"Necesito todas las herramientas\"**",
+            "",
+            "**Síntoma:** Subscripción a 15+ herramientas, usando 20% de funcionalidad",
+            "",
+            "**Solución:**",
+            "- ✅ Comienza con 3-5 herramientas core",
+            "- ✅ Domina profundamente antes de agregar",
+            "- ✅ Evalúa ROI específico de cada nueva",
+            "- ✅ Consolida cuando sea posible",
+            "",
+            "**Ejemplo:** En lugar de n8n + Zapier + Make → Elige UNO",
+            "",
+            "**Costo evitado:** $100-200/mes",
+            "",
+            "---",
+            ""
+          ]
+        },
+        {
+          "subtitle": "**Trampa #2: \"Los LLMs siempre están correctos\"**",
+          "text": [
+            "### **Trampa #2: \"Los LLMs siempre están correctos\"**",
+            "",
+            "**Síntoma:** Implementar código de ChatGPT sin revisar",
+            "",
+            "**Riesgo:**",
+            "- Vulnerabilidades de seguridad",
+            "- Errores lógicos sutiles",
+            "- Código ineficiente",
+            "- Problemas en producción",
+            "- Pérdida de datos",
+            "",
+            "**Solución:**",
+            "- ✅ Siempre revisar código generado",
+            "- ✅ Usar pair programming (humano + IA)",
+            "- ✅ Testing riguroso",
+            "- ✅ Code review siempre",
+            "- ✅ Validación en staging antes de producción",
+            "",
+            "**Costo evitado:** $10000-50000 en correcciones",
+            "",
+            "---",
+            ""
+          ]
+        },
+        {
+          "subtitle": "**Trampa #3: \"Mi caso de uso es único\"**",
+          "text": [
+            "### **Trampa #3: \"Mi caso de uso es único\"**",
+            "",
+            "**Síntoma:** No encontrar herramientas que encajen exactamente",
+            "",
+            "**Realidad:** El 90% de casos de uso se resuelven con herramientas existentes",
+            "",
+            "**Solución:**",
+            "- ✅ Adaptar caso de uso a herramientas disponibles",
+            "- ✅ Usar integraciones para llenar huecos",
+            "- ✅ Solo custom code si no hay alternativa",
+            "",
+            "---",
+            ""
+          ]
+        },
+        {
+          "subtitle": "**Trampa #4: \"Gratuito siempre es mejor\"**",
+          "text": [
+            "### **Trampa #4: \"Gratuito siempre es mejor\"**",
+            "",
+            "**Trampa:** Usar herramientas gratuitas que requieren mantenimiento constante",
+            "",
+            "**Costo oculto:**",
+            "- Tiempo de setup y configuración (10 horas = $1300)",
+            "- Soporte manual (5 horas/mes = $6500/año)",
+            "- Updates y parches (3 horas/mes = $3900/año)",
+            "- Hosting y infraestructura ($20-50/mes = $240-600/año)",
+            "",
+            "**Análisis:**",
+            "```",
+            "Herramienta Gratuita: $0/mes + 10h setup + 5h/mes mantenimiento",
+            "= ~$3000/año + tiempo",
+            "",
+            "Herramienta Pago: $50/mes + 1h setup + 0h mantenimiento",
+            "= $650/año en dinero",
+            "",
+            "ROI: Pago es mejor si tu tiempo vale >$130/h",
+            "```",
+            "",
+            "**Recomendación:** Usa open source para investigación, pago para producción",
+            "",
+            "---",
+            ""
+          ]
+        },
+        {
+          "subtitle": "**Trampa #5: \"No necesito aprender a integrar\"**",
+          "text": [
+            "### **Trampa #5: \"No necesito aprender a integrar\"**",
+            "",
+            "**Realidad:** 80% del valor viene de integraciones, no de herramientas individuales",
+            "",
+            "**Ejemplo:**",
+            "- ChatGPT solo: Útil ($20/mes)",
+            "- ChatGPT + n8n + Slack + GitHub: Transformador ($60/mes)",
+            "- Valor generado: $5000+/mes",
+            "",
+            "**Solución:**",
+            "- ✅ Aprender n8n (2-3 días)",
+            "- ✅ Aprender webhooks básicos (1 día)",
+            "- ✅ Aprender APIs (1 semana)",
+            "- ✅ Aprender LangChain (2 semanas)",
+            "",
+            "**ROI:** 10 horas de aprendizaje = 50+ horas de automatización",
+            "",
+            "---",
+            ""
+          ]
+        },
+        {
+          "subtitle": "**Trampa #6: \"Open source es siempre más barato\"**",
+          "text": [
+            "### **Trampa #6: \"Open source es siempre más barato\"**",
+            "",
+            "**Realidad:** Open source + hosting + mantenimiento puede ser más caro",
+            "",
+            "**Análisis:**",
+            "```",
+            "AppFlowy Open Source:",
+            "+ $0 software",
+            "- $20/mes servidor (DigitalOcean)",
+            "- 5h setup ($650)",
+            "- 2h/mes mantenimiento ($2600/año)",
+            "= ~$3000/año + tiempo",
+            "",
+            "Notion:",
+            "+ $10/mes",
+            "+ $0 mantenimiento",
+            "+ $0 setup",
+            "= $120/año",
+            "",
+            "Mejor para 1 persona: Notion",
+            "Mejor para equipo 10+: AppFlowy",
+            "```",
+            "",
+            "---",
+            ""
+          ]
+        },
+        {
+          "subtitle": "**Trampa #7: \"Los benchmarks reflejan mi caso\"**",
+          "text": [
+            "### **Trampa #7: \"Los benchmarks reflejan mi caso\"**",
+            "",
+            "**Realidad:** SWE-bench, MMLU, etc. no reflejan tu trabajo específico",
+            "",
+            "**Ejemplo:**",
+            "- Claude excelente en SWE-bench (código)",
+            "- GPT-5.2 mejor para tu caso de marketing",
+            "",
+            "**Solución:**",
+            "- ✅ Probar antes de adoptar",
+            "- ✅ Usar Sider AI para comparar",
+            "- ✅ Validar en tu contexto",
+            "- ✅ Medir ROI real",
+            "",
+            "---",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "title": "📖 RECURSOS ADICIONALES",
+      "content": [
+        {
+          "subtitle": "**Documentación Oficial**",
+          "text": [
+            "### **Documentación Oficial**",
+            "- **LangChain:** https://python.langchain.com/",
+            "- **Hugging Face:** https://huggingface.co/docs",
+            "- **PyTorch:** https://pytorch.org/docs/",
+            "- **GitHub Actions:** https://docs.github.com/en/actions",
+            "- **n8n:** https://docs.n8n.io/",
+            "- **GitHub Copilot:** https://docs.github.com/en/copilot",
+            ""
+          ]
+        },
+        {
+          "subtitle": "**Guías y Tutoriales**",
+          "text": [
+            "### **Guías y Tutoriales**",
+            "- **Awesome-AI:** https://github.com/openbestof/awesome-ai",
+            "- **Prompt Engineering:** https://github.com/dair-ai/Prompt-Engineering-Guide",
+            "- **Awesome Generative AI:** https://github.com/aishwaryanr/awesome-generative-ai-guide",
+            "- **LangChain Tutorials:** https://python.langchain.com/docs/modules/chains/",
+            ""
+          ]
+        },
+        {
+          "subtitle": "**Comunidades**",
+          "text": [
+            "### **Comunidades**",
+            "- **GitHub Discussions**",
+            "- **Stack Overflow** (tags: langchain, pytorch, etc)",
+            "- **Discord:** LangChain, Hugging Face, PyTorch",
+            "- **Reddit:** r/OpenAI, r/MachineLearning, r/coding",
+            "",
+            "---",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "title": "✨ CONCLUSIÓN FINAL",
+      "content": [
+        {
+          "subtitle": "**Lo Más Importante**",
+          "text": [
+            "### **Lo Más Importante**",
+            "",
+            "1. **No aprendas todo:** Especialízate en 3-5 herramientas",
+            "2. **Integra correctamente:** El valor viene de las conexiones",
+            "3. **Mide ROI:** Valida cada inversión",
+            "4. **Mantente actualizado:** IA cambia cada 3 meses",
+            "5. **Comunidad > Features:** Usa herramientas con comunidad activa",
+            ""
+          ]
+        },
+        {
+          "subtitle": "**Tu Camino Recomendado**",
+          "text": [
+            "### **Tu Camino Recomendado**",
+            "",
+            "**Mes 1:** Aprende 1 LLM (Claude o GPT) + 1 IDE (Copilot) + 1 Gestor (AppFlowy)",
+            "",
+            "**Mes 2:** Aprende automatización (n8n) + integración (webhooks)",
+            "",
+            "**Mes 3:** Elige especialización (ML, Web, Mobile, Data) y profundiza",
+            "",
+            "**Mes 4+:** Construye productos, itera, escala",
+            ""
+          ]
+        },
+        {
+          "subtitle": "**Filosofía**",
+          "text": [
+            "### **Filosofía**",
+            "",
+            "> \"La mejor herramienta es aquella que:",
+            "> 1. Resuelve tu problema específico",
+            "> 2. Tiene comunidad activa",
+            "> 3. Puedes aprender en 1 semana",
+            "> 4. Genera ROI positivo en 1 mes\"",
+            "",
+            "---",
+            "",
+            "**Última actualización:** Febrero 2026",
+            "**Versión:** 3.0 - Completa y Detallada",
+            "**Autor:** Marcos Inzaurralde",
+            "**Licencia:** Creative Commons BY-SA 4.0",
+            "**Página web:** Para feedback y actualizaciones",
+            "",
+            "---",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "title": "📎 APÉNDICES",
+      "content": [
+        {
+          "subtitle": "**Apéndice A: Comandos Útiles**",
+          "text": [
+            "### **Apéndice A: Comandos Útiles**",
+            "",
+            "```bash",
+            "# Instalar n8n local",
+            "docker run -it --rm -p 5678:5678 -v ~/.n8n:/home/node/.n8n n8nio/n8n",
+            "",
+            "# Instalar Ollama",
+            "curl https://ollama.ai/install.sh | sh",
+            "ollama pull llama2",
+            "",
+            "# Clonar repositorio",
+            "git clone https://github.com/usuario/repo.git",
+            "cd repo",
+            "",
+            "# Crear entorno Python",
+            "python -m venv venv",
+            "source venv/bin/activate  # o venv\\Scripts\\activate en Windows",
+            "",
+            "# Instalar dependencias",
+            "pip install -r requirements.txt",
+            "```",
+            ""
+          ]
+        },
+        {
+          "subtitle": "**Apéndice B: Links Rápidos de Descarga**",
+          "text": [
+            "### **Apéndice B: Links Rápidos de Descarga**",
+            "",
+            "- **GitHub:** https://github.com/",
+            "- **VS Code:** https://code.visualstudio.com/",
+            "- **Docker:** https://www.docker.com/",
+            "- **Python:** https://www.python.org/",
+            "- **Node.js:** https://nodejs.org/",
+            "- **Git:** https://git-scm.com/",
+            ""
+          ]
+        },
+        {
+          "subtitle": "**Apéndice C: Tabla de Precios Comparativa Completa**",
+          "text": [
+            "### **Apéndice C: Tabla de Precios Comparativa Completa**",
+            "",
+            "| Herramienta | Gratuito | Freemium | Pago | Inicio |",
+            "|------------|----------|----------|------|--------|",
+            "| GitHub Copilot | No | No | $20/mes | https://github.com/features/copilot |",
+            "| Claude | No | No | $20/mes | https://claude.ai/ |",
+            "| ChatGPT | Sí | Sí | $20/mes | https://chatgpt.com/ |",
+            "| n8n | Sí | Sí | $20/mes+ | https://n8n.io/ |",
+            "| AppFlowy | Sí | No | $0 | https://www.appflowy.io/ |",
+            "| Joplin | Sí | Sí | $2.99/mes | https://joplinapp.org/ |",
+            "| Ollama | Sí | No | $0 | https://ollama.ai/ |",
+            "| Penpot | Sí | No | $0 | https://penpot.app/ |",
+            "| OpenClaw | Sí | No | $0 | https://github.com/claw-project/openclaw |",
+            "",
+            "---",
+            "",
+            "**FIN DEL DOCUMENTO - VERSIÓN 3.0 COMPLETA**",
+            ""
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": []
+}
