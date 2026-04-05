@@ -1,0 +1,20 @@
+{
+  "name": "IA Tools 2026",
+  "short_name": "IA Tools",
+  "description": "Guía completa de herramientas de inteligencia artificial para 2026",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#6366f1",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["productivity", "utilities"],
+  "lang": "es"
+}
